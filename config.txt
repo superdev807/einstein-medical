@@ -1,0 +1,16 @@
+#123123
+
+123
+host=test.com
+
+server_id =    1321
+
+user = user
+
+verbose = true
+
+test_mode = on
+debug_mode = off
+
+log_file_path = /tmp/logfile.log
+send_notifications = yes
